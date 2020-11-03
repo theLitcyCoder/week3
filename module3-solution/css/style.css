@@ -1,1 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
 
+
+.navbar-header{
+    background-color: grey;
+    width:100%;
+}
+
+.navbar
+{
+    border-radius: 0px;
+    background-color: gray;
+}
+
+#menu{
+    text-align: center;
+}
+
+#blocks div{
+    background-color: rgb(167, 167, 167);
+    height: 1000px;
+    font-weight: bold;
+    color: black;
+}
+
+#blocks div h3{
+    text-align:center;
+}
+
+
+a, a:focus, a:active, a:hover{
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.navbar-default, .navbar{
+    padding: 0px !important;
+    margin: -5px !important;
+}
