@@ -4,7 +4,7 @@
 }
 
 
-.navbar-header
+.navbar-header{
     position:fixed;
     background-color: grey;
     width:100%;
