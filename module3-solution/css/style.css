@@ -19,6 +19,16 @@
     text-align: center;
 }
 
+.item{
+    padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+
 #blocks div{
     background-color: rgb(167, 167, 167);
     height: 1000px;
